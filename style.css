@@ -1,19 +1,33 @@
-body{;
+body{
     color:black;
     font-family: 'Poppins', serif;
+    margin:0;
 }
 .under-img{
-    padding-top:5%;
-    padding-left:5%;
+    /* padding-top:5%;
+    padding-left:5%; */
+}
+.context{
+    font-size:0.7vw;
 }
 .b-link{
-    padding-top:5%;
-    padding-left:30%;
+    padding-top:10%;
+    padding-left:40%;
+    color:white;
 }
+.img-yc{
+    padding-left:33%;
+    padding-top:5%;
+}
+/* .ss{
+    width:80%;
+    padding-left:10%;
+} */
 .under-text{
     font-size:13px;
     letter-spacing: 2px;
-    padding-left:29%;
+    padding-left:37vw;
+    color:white;
 }
 .part-one{
     padding-top:8%;
@@ -63,7 +77,17 @@ li{
 .fin-text{
     padding-top:4%;
     font-size:10px;
-    padding-bottom:4%;
+    padding-bottom:1.5%;
     letter-spacing: 30px;
     padding-left:48%;
+}
+.blue-section{
+    background-color: #FFA1A1;
+    margin:0;
+    height:30vw;
+}
+.back{
+    padding-left: 48.25vw;
+    padding-bottom:2vw;
+    color:black;
 }
